@@ -8,5 +8,5 @@
  * - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
  */
 
-//
+
 console.log("Hello, World!");
